@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Roots Theme](http://www.rootstheme.com/)
 
 Roots is a starting WordPress theme made for developers that’s based on [HTML5 Boilerplate](http://html5boilerplate.com/) and [Bootstrap from Twitter](http://twitter.github.com/bootstrap/).
@@ -48,3 +49,9 @@ Everyone is welcome to help [contribute](/retlehs/roots/blob/master/CONTRIBUTING
 * Google Group: [http://groups.google.com/group/roots-theme](http://groups.google.com/group/roots-theme)
 * Twitter Updates: [@retlehs](https://twitter.com/#!/retlehs)
 * Contributors: [https://github.com/retlehs/roots/contributors](https://github.com/retlehs/roots/contributors)
+=======
+roots-nathancharles
+===================
+
+Roots child theme for NathanCharles.com.au
+>>>>>>> 528216bbbca08ebfa8c9fbe3ed5c6c816034ead9
